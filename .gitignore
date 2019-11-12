@@ -1,0 +1,6 @@
+devfestgrpcclient/bin/
+devfestgrpcclient/obj/
+devfestgrpcserver/bin/
+devfestgrpcserver/obj/
+devfestwasm/bin/
+devfestwasm/obj/
